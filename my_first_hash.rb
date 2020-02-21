@@ -17,6 +17,3 @@ shipping_manifest = {"whale bone corset" => 5,"porcelain vase" => 2,"oil paintin
 
 shipping_manifest = ["muskets" => 2]
 shipping_manifest = ["gun powder" => 4]
-
- end
-end
