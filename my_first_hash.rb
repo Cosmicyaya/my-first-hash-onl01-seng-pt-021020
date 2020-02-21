@@ -13,23 +13,4 @@ shipping_manifest = {
   shipping_manifest ["oil paintings"]
 end
 
-def retrieval
-
-                  "oil paintings" => 3
-                 }
-
-  # Look up the value of the "oil paintings" key in the shipping_manifest hash below
-
-end
-
-  # add 2 muskets to the shipping_manifest hash below
-
-
-
-  # add 4 gun powder to the shipping_manifest hash below
-
-
-
-  # return the shipping_manifest hash below
-
-end
+shipping_manifest
